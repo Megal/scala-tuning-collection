@@ -1,0 +1,17 @@
+! 12-22ed2-tone4-sharp2.scl
+!
+22-edo subset forming 5L2s MOS mapped for playing regular 12 keys piano. L = 4d. sharps are 2d.
+ 12
+!
+ 109.09091  C#
+ 218.18182  D
+ 327.27273  D#
+ 436.36364  E
+ 490.90909  F
+ 600.00000  F#
+ 709.09091  G
+ 818.18182  G#
+ 927.27273  A
+ 1036.36364 A#
+ 1145.45455 B/
+ 2/1        C
